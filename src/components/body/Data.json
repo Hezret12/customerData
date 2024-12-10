@@ -1,0 +1,496 @@
+[
+
+    {
+        "CustomerGroupID": 5166,
+        "GroupName": "Jeňňel Park (Руслан)",
+        "Customers": [
+            {
+                "CustomerID": 5492,
+                "CustomerName": "Jeňňel Park (Руслан)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 60
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 6118,
+        "GroupName": "Kämil market (Ширина)",
+        "Customers": [
+            {
+                "CustomerID": 6575,
+                "CustomerName": "Kämil market (Ширина)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 1
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4286,
+        "GroupName": "Kärizi маркет (Курбан)",
+        "Customers": [
+            {
+                "CustomerID": 4594,
+                "CustomerName": "Kärizi маркет (Курбан)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 3
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4647,
+        "GroupName": "Kegk Coffee (Виктор)",
+        "Customers": [
+            {
+                "CustomerID": 4955,
+                "CustomerName": "Kegk Coffee (Виктор)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 48
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4702,
+        "GroupName": "Kent Coffee (Безирген)",
+        "Customers": [
+            {
+                "CustomerID": 5010,
+                "CustomerName": "Kent Coffee (Безирген)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 54
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5640,
+        "GroupName": "Kofein Кофе (Али)",
+        "Customers": [
+            {
+                "CustomerID": 6023,
+                "CustomerName": "Kofein Кофе (Али)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 55
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4653,
+        "GroupName": "Kono Pizza (Бегенч)",
+        "Customers": [
+            {
+                "CustomerID": 4961,
+                "CustomerName": "Kono Pizza (Бегенч)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 48
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 6255,
+        "GroupName": "La Crema кафе (Юсуп)",
+        "Customers": [
+            {
+                "CustomerID": 6837,
+                "CustomerName": "La Crema кафе (Юсуп)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5289,
+        "GroupName": "Lacasa ресторан (Рахман)",
+        "Customers": [
+            {
+                "CustomerID": 5634,
+                "CustomerName": "Lacasa ресторан (Рахман)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 9
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5888,
+        "GroupName": "Lezzetli кафе (Виктория)",
+        "Customers": [
+            {
+                "CustomerID": 6314,
+                "CustomerName": "Lezzetli кафе (Виктория)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 45
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5839,
+        "GroupName": "M\/M Coffee (Мухаммед)",
+        "Customers": [
+            {
+                "CustomerID": 6251,
+                "CustomerName": "M\/M Coffee (Мухаммед)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 53
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 3529,
+        "GroupName": "Mashakova Eneke",
+        "Customers": [
+            {
+                "CustomerID": 5851,
+                "CustomerName": "Энеке Машакова",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 65
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4239,
+        "GroupName": "Massalskaya Tamara",
+        "Customers": [
+            {
+                "CustomerID": 5918,
+                "CustomerName": "Массалская Тамара",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 65
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4666,
+        "GroupName": "Melhem маркет (Силап)",
+        "Customers": [
+            {
+                "CustomerID": 4974,
+                "CustomerName": "Melhem маркет (Силап)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT"
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4884,
+        "GroupName": "Miriş маркет (Магтумгулы)",
+        "Customers": [
+            {
+                "CustomerID": 5192,
+                "CustomerName": "Miriş маркет (Магтумгулы)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 67
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5860,
+        "GroupName": "Mocco Coffee (Довлет)",
+        "Customers": [
+            {
+                "CustomerID": 6280,
+                "CustomerName": "Mocco Coffee (Довлет)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 16
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4297,
+        "GroupName": "Moon кафетерий (Керим)",
+        "Customers": [
+            {
+                "CustomerID": 4605,
+                "CustomerName": "Moon кафетерий (Керим)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 5
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4406,
+        "GroupName": "MSM здание (Мурат)",
+        "Customers": [
+            {
+                "CustomerID": 4714,
+                "CustomerName": "MSM здание (Мурат)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 11
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5830,
+        "GroupName": "Polat At Sowda Merkezi (Мердан)",
+        "Customers": [
+            {
+                "CustomerID": 6239,
+                "CustomerName": "Polat At Sowda Merkezi (Мердан)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 59
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4309,
+        "GroupName": "RB Döner (Максат)",
+        "Customers": [
+            {
+                "CustomerID": 4617,
+                "CustomerName": "RB Döner (Максат)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 7
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4740,
+        "GroupName": "Rowaç маркет (Байрамгельды)",
+        "Customers": [
+            {
+                "CustomerID": 5048,
+                "CustomerName": "Rowaç маркет (Байрамгельды)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 54
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4856,
+        "GroupName": "Şamçyrag маркет (Махым)",
+        "Customers": [
+            {
+                "CustomerID": 5164,
+                "CustomerName": "Şamçyrag маркет (Махым)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 63
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5362,
+        "GroupName": "Seven кофе Мухаммед",
+        "Customers": [
+            {
+                "CustomerID": 5710,
+                "CustomerName": "Seven кофе Мухаммед",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 28
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5576,
+        "GroupName": "SHOP Мир1",
+        "Customers": [
+            {
+                "CustomerID": 5948,
+                "CustomerName": "SHOP Мир1",
+                "K": true,
+                "E": true,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 11
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4875,
+        "GroupName": "Söwda Merkezi Телекечи Курбанмурадов Ахметъяр Акмурадович",
+        "Customers": [
+            {
+                "CustomerID": 5183,
+                "CustomerName": "Söwda Merkezi Телекечи Курбанмурадов Ахметъяр Акмурадович",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT"
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 5024,
+        "GroupName": "Tajir Маркет (Ровшан)",
+        "Customers": [
+            {
+                "CustomerID": 5336,
+                "CustomerName": "Tajir Маркет (Ровшан)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 73
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4676,
+        "GroupName": "Täjir маркет Телекечи Бегенчев Дидар Патышагулыевич",
+        "Customers": [
+            {
+                "CustomerID": 4984,
+                "CustomerName": "Täjir маркет Телекечи Бегенчев Дидар Патышагулыевич (Марал)",
+                "K": true,
+                "E": true,
+                "CurrencyID": 1,
+                "Sign": "TMT"
+            },
+            {
+                "CustomerID": 6462,
+                "CustomerName": "Täjir маркет Телекечи Бегенчев Дидар Патышагулыевич (Айлара)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 60
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4605,
+        "GroupName": "Täjir маркет Телекечи Бегенчев Мерген",
+        "Customers": [
+            {
+                "CustomerID": 4913,
+                "CustomerName": "Täjir маркет Телекечи Бегенчев Мерген (Махым)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 37
+            }
+        ]
+    },
+    {
+        "CustomerGroupID": 4606,
+        "GroupName": "Täze Öý маркет (Дженнет)",
+        "Customers": [
+            {
+                "CustomerID": 4914,
+                "CustomerName": "Täze Öý маркет (Дженнет)",
+                "K": true,
+                "E": false,
+                "CurrencyID": 1,
+                "Sign": "TMT",
+                "CountryID": 188,
+                "CityID": 14998,
+                "DistrictID": 37
+            }
+        ]
+    } ]

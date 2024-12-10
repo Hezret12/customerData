@@ -1,0 +1,13 @@
+.logoHead{
+    display: flex;
+    gap: 5px;
+    align-items:center;
+  }
+.headMain{
+  background-color: #4169E1; /* Royal Blue */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Hafif gölge efekti */
+  border-bottom: 2px solid #1E50B5; 
+  width: 100%;
+  display: absolute;
+}
+  
